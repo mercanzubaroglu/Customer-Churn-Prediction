@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction / Müşteri Terk Etme Tahmini
 
-## 📝 Project Description / Proje Açıklaması
+📝 Project Description / Proje Açıklaması
 
 **EN:**  
 This project aims to predict whether a customer will churn (leave the company) using the Telco Customer Churn dataset. It includes exploratory data analysis (EDA), data preprocessing, machine learning models, and model evaluation with interpretation.
@@ -69,7 +69,6 @@ Keşifsel veri analizi (EDA) sırasında, veri setini ve değişkenler arasında
 
 ---
 
-## ✅ Model Results / Model Sonuçları
 
 ## ✅ Model Results / Model Sonuçları
 
